@@ -4,7 +4,7 @@ import shutil
 import random
 import argparse
 
-parser = argparse.ArgumentParser(description="Just an example",
+parser = argparse.ArgumentParser(description="Help Information",
                                  formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
 parser.add_argument("-modf", "--module_folder", help="This should be the modules folder path.",
